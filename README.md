@@ -6,21 +6,21 @@
   />
 </p>
 
-<h3 align="center">
+<h2 align="center">
   <strong>Brewing ideas. Building systems.</strong>
-</h3>
+</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shreya-mishra-developer">
-    <img src="./assets/linkedin.svg" width="28" height="28" alt="LinkedIn" />
+    <img src="./assets/linkedin.svg" width="30" height="30" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://x.com/shreyamishra_25">
-    <img src="./assets/x.svg" width="28" height="28" alt="X" />
+    <img src="./assets/x.svg" width="30" height="30" alt="X" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:shreyamishra2k05@gmail.com">
-    <img src="./assets/gmail.svg" width="28" height="28" alt="Gmail" />
+    <img src="./assets/gmail.svg" width="30" height="30" alt="Gmail" />
   </a>
 </p>
 
@@ -52,8 +52,9 @@ Someone who likes understanding how things work under the hood, and occasionally
 
 <hr>
 
-<p align="center">
+<h3 align="center">
   <strong>🔮 Ministry of Questionable Engineering</strong>
-  <br><br>
-  <i>I write code. The wand is for emergencies.</i>
+</h3>
+<p align="center">
+  <code>I write code. The wand is for emergencies.</code>
 </p>
