@@ -1,16 +1,61 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**shreya-mishra325/shreya-mishra325** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/shreya-mishra-developer">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://x.com/shreyamishra_25">
+  <img src="https://img.shields.io/badge/X-Profile-000000?style=flat-square&logo=x&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:shreyamishra2k05@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+</a>
 
-Here are some ideas to get you started:
+<br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="./assets/hogwarts-coding.png" width="100%" alt="Shreya coding at Hogwarts">
+
+<br>
+
+### `Brewing ideas. Building systems.`
+
+</div>
+
+---
+
+~~~text
+> INITIALIZING ENGINEERING DIVISION...
+> LOADING CODE.................. OK
+> COMPILING..................... OK
+> DEBUGGING..................... OK
+> GLASS CEILING................. BYPASSED
+>
+> WELCOME, ENGINEER.
+~~~
+
+### `~$ whoami`
+
+someone who likes understanding how things work under the hood, and occasionally overengineering them just for the fun of it.
+
+### `~$ currently`
+
+- building with **backend, AI agents & real-time systems**
+- learning **LLMs, Agentic AI & system design**
+- solving **DSA & algorithmic problems**
+
+### `~$ next`
+
+- deeper into **system design**
+- exploring **LLMs**
+- building things **worth keeping**
+
+---
+
+<div align="center">
+
+`Ministry of Questionable Engineering`
+
+*I write code. The wand is for emergencies.*
+
+</div>
