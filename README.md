@@ -6,9 +6,13 @@
   />
 </p>
 
-<h2 align="center">
-  <strong>Brewing ideas. Building systems.</strong>
-</h2>
+<p align="center">
+  <img
+    src="./assets/brewing-ideas-building-systems.svg"
+    alt="Brewing ideas. Building systems."
+    width="760"
+  />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shreya-mishra-developer">
@@ -30,7 +34,7 @@
   <img
     src="./assets/engineering_boot_sequence.gif"
     alt="Engineering division initialization"
-    width="700"
+    width="100%"
   />
 </p>
 
@@ -53,8 +57,8 @@ Someone who likes understanding how things work under the hood, and occasionally
 <hr>
 
 <h3 align="center">
-  <strong>🔮 Ministry of Questionable Engineering</strong>
+  <code><strong>Ministry of Questionable Engineering</strong></code>
 </h3>
 <p align="center">
-  <code>I write code. The wand is for emergencies.</code>
+  <i>I write code. The wand is for emergencies.</i>
 </p>
