@@ -1,42 +1,33 @@
-<div align="center">
+<p align="center">
+  <img
+    src="./assets/hogwarts-coding.png"
+    alt="Shreya coding at Hogwarts"
+    width="100%"
+  />
+</p>
 
-<a href="https://www.linkedin.com/in/shreya-mishra-developer">
-  <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://x.com/shreyamishra_25">
-  <img src="https://img.shields.io/badge/X-Profile-000000?style=flat-square&logo=x&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:shreyamishra2k05@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-</a>
+<center>
+<p align="center" style="text-align: center;">
+  <code>Brewing ideas. Building systems.</code>
+</p>
+<p align="center" style="text-align: center;">
+  <a href="https://www.linkedin.com/in/shreya-mishra-developer"><img src="./assets/linkedin.svg" width="28" height="28" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;<a href="https://x.com/shreyamishra_25"><img src="./assets/x.svg" width="28" height="28" alt="X" /></a>&nbsp;&nbsp;&nbsp;<a href="mailto:shreyamishra2k05@gmail.com"><img src="./assets/gmail.svg" width="28" height="28" alt="Gmail" /></a>
+</p>
+</center>
 
-<br><br>
+<hr>
 
-<img src="./assets/hogwarts-coding.png" width="100%" alt="Shreya coding at Hogwarts">
-
-<br>
-
-### `Brewing ideas. Building systems.`
-
-</div>
-
----
-
-~~~text
-> INITIALIZING ENGINEERING DIVISION...
-> LOADING CODE.................. OK
-> COMPILING..................... OK
-> DEBUGGING..................... OK
-> GLASS CEILING................. BYPASSED
->
-> WELCOME, ENGINEER.
-~~~
+<p align="center">
+  <img
+    src="./assets/engineering_boot_sequence.gif"
+    alt="Engineering division initialization"
+    width="700"
+  />
+</p>
 
 ### `~$ whoami`
 
-someone who likes understanding how things work under the hood, and occasionally overengineering them just for the fun of it.
+Someone who likes understanding how things work under the hood, and occasionally overengineering them just for the fun of it.
 
 ### `~$ currently`
 
@@ -50,12 +41,12 @@ someone who likes understanding how things work under the hood, and occasionally
 - exploring **LLMs**
 - building things **worth keeping**
 
----
+<hr>
 
-<div align="center">
-
-`Ministry of Questionable Engineering`
-
-*I write code. The wand is for emergencies.*
-
-</div>
+<center>
+<p align="center" style="text-align: center;">
+  <code>Ministry of Questionable Engineering</code>
+  <br><br>
+  <i>I write code. The wand is for emergencies.</i>
+</p>
+</center>
