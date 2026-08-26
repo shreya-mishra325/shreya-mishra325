@@ -1,19 +1,28 @@
 <p align="center">
   <img
-    src="./assets/hogwarts-coding.png"
+    src="./assets/hogwarts-coding.gif"
     alt="Shreya coding at Hogwarts"
     width="100%"
   />
 </p>
 
-<center>
-<p align="center" style="text-align: center;">
-  <code>Brewing ideas. Building systems.</code>
+<h3 align="center">
+  <strong>Brewing ideas. Building systems.</strong>
+</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shreya-mishra-developer">
+    <img src="./assets/linkedin.svg" width="28" height="28" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/shreyamishra_25">
+    <img src="./assets/x.svg" width="28" height="28" alt="X" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:shreyamishra2k05@gmail.com">
+    <img src="./assets/gmail.svg" width="28" height="28" alt="Gmail" />
+  </a>
 </p>
-<p align="center" style="text-align: center;">
-  <a href="https://www.linkedin.com/in/shreya-mishra-developer"><img src="./assets/linkedin.svg" width="28" height="28" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;<a href="https://x.com/shreyamishra_25"><img src="./assets/x.svg" width="28" height="28" alt="X" /></a>&nbsp;&nbsp;&nbsp;<a href="mailto:shreyamishra2k05@gmail.com"><img src="./assets/gmail.svg" width="28" height="28" alt="Gmail" /></a>
-</p>
-</center>
 
 <hr>
 
@@ -43,10 +52,8 @@ Someone who likes understanding how things work under the hood, and occasionally
 
 <hr>
 
-<center>
-<p align="center" style="text-align: center;">
-  <code>Ministry of Questionable Engineering</code>
+<p align="center">
+  <strong>🔮 Ministry of Questionable Engineering</strong>
   <br><br>
   <i>I write code. The wand is for emergencies.</i>
 </p>
-</center>
