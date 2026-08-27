@@ -10,7 +10,7 @@
   <img
     src="./assets/brewing-pulse.svg"
     alt="Brewing ideas. Building systems."
-    width="800"
+    width="620"
   />
 </p>
 
