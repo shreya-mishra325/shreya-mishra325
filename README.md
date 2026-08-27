@@ -8,9 +8,9 @@
 
 <p align="center">
   <img
-    src="./assets/brewing-ideas-building-systems.svg"
+    src="./assets/brewing-pulse.svg"
     alt="Brewing ideas. Building systems."
-    width="760"
+    width="800"
   />
 </p>
 
