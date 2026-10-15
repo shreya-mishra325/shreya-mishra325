@@ -40,19 +40,20 @@
 
 ### `~$ whoami`
 
-Someone who likes understanding how things work under the hood, and occasionally overengineering them just for the fun of it.
+Someone who likes figuring out how things work under the hood and occasionally overengineering things just for fun.
 
 ### `~$ currently`
 
-- building with **backend, AI agents & real-time systems**
-- learning **LLMs, Agentic AI & system design**
-- solving **DSA & algorithmic problems**
+- building with **backend systems, AI agents & real-time applications**
+- experimenting with **LLMs, Agentic AI & system design**
+- curious about **DevOps & Machine Learning**
+- sharpening my **DSA & problem-solving skills**
 
 ### `~$ next`
 
-- deeper into **system design**
-- exploring **LLMs**
-- building things **worth keeping**
+- diving deeper into **system design**
+- turning ideas into **working, useful software**
+- building things **that outlive the hype**
 
 <hr>
 
